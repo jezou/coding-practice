@@ -57,6 +57,7 @@ class SinglyLinkedList:
 		self.head = prev
 
 #for testing
+'''
 l = SinglyLinkedList(SinglyNode(5, None))
 l.insertFirst(0)
 l.insertFirst(1)
@@ -67,3 +68,4 @@ l.reverse()
 l.traverse()
 l.deleteFirst()
 l.traverse()
+'''
